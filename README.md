@@ -10,7 +10,7 @@
 ![](./gif/photos.gif)
 
 - Search for key words in the questions, answers, or username
-![](./gif/searcg.gif)
+![](./gif/search.gif)
 
 - Lists sorted by most helpful with sellers answers on top
 - Mark question and/or answer helpful
